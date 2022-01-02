@@ -7,13 +7,4 @@
     height: 90vh;
 }
 
-.contenedorLista{
-    background-color: #fff;
-    max-height: 250px;
-    overflow-y: auto;
-}
 
-.listItem{
-    background-color: aqua;
-    border: 1px solid #000;
-}
